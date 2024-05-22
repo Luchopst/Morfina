@@ -1,0 +1,9 @@
+.todo{
+    background-image: url("../public/Imagenes/int.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 800px;
+}
+
