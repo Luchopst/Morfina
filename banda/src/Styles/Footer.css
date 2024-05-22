@@ -1,0 +1,11 @@
+.Logo-footer{
+width: 8em;
+height: 3em;
+}
+.contenido-footer{
+    background: rgba(0,0,0,0.3);
+}
+.iconos-footer:hover{
+    color: rgb(223, 43, 43);
+    transition: 1s all;
+}

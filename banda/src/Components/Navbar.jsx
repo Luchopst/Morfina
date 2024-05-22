@@ -29,7 +29,7 @@ export default function Navbar() {
             <ul className="navbar-nav">
               <li className="nav-item">
                 <a
-                  className="nav-link active text-light"
+                  className="nav-link active text-light menu-nav"
                   aria-current="page"
                   href="#"
                 >
@@ -37,14 +37,14 @@ export default function Navbar() {
                 </a>
               </li>
               <li className="nav-item ">
-                <a className="nav-link text-light" href="#">
+                <a className="nav-link text-light menu-nav" href="#">
                   Fotos
                 </a>
               </li>
-              <li className="nav-item"></li>
-              <li className="nav-item dropdown">
+              <li className="nav-item "></li>
+              <li className="nav-item dropdown ">
                 <a
-                  className="nav-link dropdown-toggle text-light"
+                  className="nav-link dropdown-toggle text-light "
                   href="#"
                   data-bs-toggle="dropdown"
                   aria-expanded="false"
